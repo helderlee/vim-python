@@ -1,7 +1,7 @@
 # vim-python
 Instructions:
 
-1) Run setup.sh
+1) Run setup.sh:
    ./setup.sh
 2) Replace downloaded file vimrc in ~/.vim:
    cp vimrc ~/.vim
